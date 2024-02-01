@@ -1,1 +1,1 @@
-# Team22
+Forum Application for software engineering course
